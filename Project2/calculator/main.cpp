@@ -24,6 +24,10 @@ int main() {
   string firstLine;
   bool wantToLeave = false;
   Welcome();
+  varNameList.add("PI");
+  valueList.add("3.14159 26535 89793 23846 26433 83279 50288 41971 69399 37");
+  varNameList.add("e");
+  valueList.add("2.71828 18284 59045 23536 02874 71352 66249 77572 47093 69");
 
   while (getline(cin, firstLine)) {
     if (firstLine == "help") {
@@ -86,10 +90,6 @@ int main() {
   return 0;
 }
 
-varNameList.add("PI");
-valueList.add("3.14159 26535 89793 23846 26433 83279 50288 41971 69399 37");
-varNameList.add("e");
-valueList.add("2.71828 18284 59045 23536 02874 71352 66249 77572 47093 69");
 
 void Welcome() {
     cout << "Welcome to the simple calculator_V2." << endl;
