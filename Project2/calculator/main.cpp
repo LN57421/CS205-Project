@@ -644,7 +644,7 @@ string result(vector<string> bh) {
       st.pop();
       CNumber cn1(st.top().c_str());
       st.pop();
-      st.push((cn1 - cn2).toString());  // 精髓啊
+      st.push((cn1 - cn2).toString()); 
     } else if (bh[i] == "*") {
       CNumber cn1(st.top().c_str());
       st.pop();
