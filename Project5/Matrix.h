@@ -31,10 +31,9 @@ class Matrix {
 
   // 进行标定，此矩阵是否为ROI矩阵
   bool isROI = false;
-  // 支持ROI操作
-  size_t row_ROI;               // ROI行数
-  size_t column_ROI;            // ROI列数
-  std::shared_ptr<T> nums_ROI;  // ROI指针
+  size_t row_ROI;              
+  size_t column_ROI;            
+  std::shared_ptr<T> nums_ROI;  
 
  public:
   // 默认构造器
