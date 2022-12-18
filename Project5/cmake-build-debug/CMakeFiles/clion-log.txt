@@ -1,0 +1,8 @@
+"D:\Program Files\CLion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/CLion/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\nian5\Desktop\c++Demo\Project5 -B C:\Users\nian5\Desktop\c++Demo\Project5\cmake-build-debug
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP: TRUE (found version "4.5")  
+OPENMP FOUND
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/nian5/Desktop/c++Demo/Project5/cmake-build-debug
