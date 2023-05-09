@@ -1,3 +1,14 @@
-# CS205-Project
+# CS205 C/C++程序设计 2022秋
 
-Source code and data for projects
+授课教师：于仕琪
+
+课程总评：86/B
+
+| 项目             | 得分 | 均分 |
+| ---------------- | ---- | ---- |
+| Project1         | 93   | 86   |
+| Project2         | 92   | 82   |
+| Project3         | 84   | 76   |
+| Project4         | 91   | 86   |
+| Project5         | 84   | 74   |
+| 期末考试（缓考） | 71   | 59   |
