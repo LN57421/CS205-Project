@@ -1,14 +1,20 @@
-# CS205 C/C++程序设计 2022秋
+<div align="center">
 
-授课教师：于仕琪
+# SUSTech CS205 (C/C++ Program Design) Projects
 
-课程总评：86/B
+</div>
 
-| 项目             | 得分 | 均分 |
-| ---------------- | ---- | ---- |
-| Project1         | 93   | 86   |
-| Project2         | 92   | 82   |
-| Project3         | 84   | 76   |
-| Project4         | 91   | 86   |
-| Project5         | 84   | 74   |
-| 期末考试（缓考） | 71   | 59   |
+Semester: 2022 Fall  
+Lecturer: Prof. Shiqi Yu
+
+### Projects
+
+|  #  |                官方名称              |     简介      |                          Project 目录                           | 分数 | 
+|:---:|-------------------------------------|--------------|----------------------------------------------------------------|:---:|
+|  1  | A Simple Calculator                 | 计算乘法      | [Project1_Calculator](Project1)                     | 93 | 
+|  2  | A Better Calculator                 | 命令行计算器   | [Project2_CalculatorEx](Project2)                 | 92 | 
+|  3  | A Libray for Matrix Operations in C | C 矩阵库      | [Project3_Matrix](Project3)                             | 84 | 
+|  4  | Matrix Multiplication in C          | 矩阵乘法优化   | [Project4_MatrixMultiplication](Project4) | 91 |
+|  5  | A Class for Matrices                | C++ 矩阵库    | [Project5_MatrixClass](Project5)                   | 84 |
+
+注：不同学期的 Projects 不一定相同，以实际为准，本仓库的 Project 题目、报告等仅供参考。
