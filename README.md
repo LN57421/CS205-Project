@@ -17,4 +17,4 @@ Lecturer: Prof. Shiqi Yu
 |  4  | Matrix Multiplication in C          | 矩阵乘法优化   | [Project4_MatrixMultiplication](Project4) | 91 |
 |  5  | A Class for Matrices                | C++ 矩阵库    | [Project5_MatrixClass](Project5)                   | 84 |
 
-注：不同学期的 Projects 不一定相同，以实际为准，本仓库的 Project 题目、报告等仅供参考。
+Tips：Project文件内附报告与code
